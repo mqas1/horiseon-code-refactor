@@ -8,7 +8,7 @@ The refactoring was completed with a view to enhancing the existing codebase, na
 
 This process will also boost web accessibility and SEO (search engine optimisation).
 
-[Deployed website](...)
+[Deployed GitHub Page](https://mqas1.github.io/horiseon-code-refactor/)
 
 ![Screenshot of deployed Horiseon landing page](./assets/images/Screenshot-deployed-website.jpeg)
 
